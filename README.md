@@ -13,13 +13,6 @@ This is an election audit of a local congressional election which recently occur
 8. Calculate the total number of votes that each candidate received.
 9. Calculate the percentage of votes each candidate won.
 10. Determine the election winner  based on the popular vote.
-This is an election audit of a local congressional election which recently occurred.  The election audit is being conducted for the Colorado Board of Elections.  The required tasks for the audit are listed below:
-
-1. Tally the total number of votes cast.
-2. Provide a complete list of candidates who received votes.
-3. Calculate the total number of votes that each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the election winner  based on the popular vote.
 
 ## Resources
 - Data Source: election_results.csv
@@ -36,9 +29,6 @@ The analysis of the election returned the following results:
     - Jefferson County turned out 10.5% of the vote with 38,855 number of votes.
     - Denver County turned out 82.8% of the vote with 306,055 number of votes.
     - Arapahoe County turned out 6.7% of the vote with 24,801 number of votes.
-## Summary
-The analysis of the election returned the following results:
-- There were 369,711 total votes cast in the election.
 - The following candidates received votes:
     - Charles Casper Stockholm
     - Diana DeGette
@@ -54,13 +44,10 @@ The analysis of the election returned the following results:
 ## Election-Audit Summary
 This project utilized Python [repetition statements and conditional statements](https://docs.python.org/3/tutorial/controlflow.html) with [logical operators](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not) to calculate, develop, and analyze the election data to produce the required results. Next, the script uses print statements to print out the election analysis sorted by county and by candidate to the command line.  
 
-![Results_Printed_To_Terminal](https://github.com/mewers2/election-analysis/blob/main/Resources/Results_Printed_To_Terminal.png)
+![Results_Printed_To_Terminal](https://github.com/mewers2/Election_Analysis/blob/main/Resources/Results_Printed_To_Terminal.png)
 
 The election analysis is also printed to a text file for submission to the Colorado Election Commission. 
 
-![Results_Printed_To_Text_File](https://github.com/mewers2/election-analysis/blob/main/Resources/Results_Printed_To_Text_File.png)
+![Results_Printed_To_Text_File](https://github.com/mewers2/Election_Analysis/blob/main/Resources/Results_Printed_To_Text_File.png)
 
 This script could be used for any other election. It could be modified to provide additional analysis, perhaps by political party, or by age range, or gender, based on any additional voter data.  
-## Challenge OVerview
-
-## Challenge Summary
