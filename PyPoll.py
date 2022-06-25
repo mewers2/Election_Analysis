@@ -69,7 +69,7 @@ with open(file_to_save, "w") as txt_file:
     
     # Determine the percentage of votes for each candidate by looping through the counts.
 
-    # Iterate through the candidate list.
+    # Iterate through the candidate dictionary.
     for candidate_name in candidate_votes:
 
         # Retrieve vote count of a candidate.
