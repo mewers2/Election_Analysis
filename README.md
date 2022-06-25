@@ -13,6 +13,13 @@ This is an election audit of a local congressional election which recently occur
 8. Calculate the total number of votes that each candidate received.
 9. Calculate the percentage of votes each candidate won.
 10. Determine the election winner  based on the popular vote.
+This is an election audit of a local congressional election which recently occurred.  The election audit is being conducted for the Colorado Board of Elections.  The required tasks for the audit are listed below:
+
+1. Tally the total number of votes cast.
+2. Provide a complete list of candidates who received votes.
+3. Calculate the total number of votes that each candidate received.
+4. Calculate the percentage of votes each candidate won.
+5. Determine the election winner  based on the popular vote.
 
 ## Resources
 - Data Source: election_results.csv
@@ -29,6 +36,9 @@ The analysis of the election returned the following results:
     - Jefferson County turned out 10.5% of the vote with 38,855 number of votes.
     - Denver County turned out 82.8% of the vote with 306,055 number of votes.
     - Arapahoe County turned out 6.7% of the vote with 24,801 number of votes.
+## Summary
+The analysis of the election returned the following results:
+- There were 369,711 total votes cast in the election.
 - The following candidates received votes:
     - Charles Casper Stockholm
     - Diana DeGette
@@ -51,3 +61,6 @@ The election analysis is also printed to a text file for submission to the Color
 ![Results_Printed_To_Text_File](https://github.com/mewers2/election-analysis/blob/main/Resources/Results_Printed_To_Text_File.png)
 
 This script could be used for any other election. It could be modified to provide additional analysis, perhaps by political party, or by age range, or gender, based on any additional voter data.  
+## Challenge OVerview
+
+## Challenge Summary
